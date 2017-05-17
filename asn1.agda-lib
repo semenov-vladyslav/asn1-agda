@@ -1,0 +1,3 @@
+name: asn1
+depend: std-lib, data-word
+include: .
